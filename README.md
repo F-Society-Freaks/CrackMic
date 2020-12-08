@@ -30,6 +30,10 @@ bash crackmic.sh
 
 [![Screenshot-2020-12-08-09-48-25-1.png](https://i.postimg.cc/zBqwgLYC/Screenshot-2020-12-08-09-48-25-1.png)](https://postimg.cc/671Gsp3q)
 
+## References
+
+Recorderjs by: https://github.com/mattdiamond/Recorderjs
+
 <p>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=JasonJerry.lockphish" alt="visitor badge"/>
 </p>
