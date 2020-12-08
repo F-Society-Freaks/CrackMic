@@ -1,2 +1,3 @@
 # CrackMic
-Capture everything that your friend speak using this awesome tool
+
+Hack your friends microphone and listen what he/she speaking using this awesome tool
