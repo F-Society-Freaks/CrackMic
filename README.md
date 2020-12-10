@@ -20,7 +20,7 @@ Usage of CrackMic for attacking targets without prior mutual consent is illegal.
 apt install php
 apt install openssh or dropbear
 git clone https://github.com/V1CK3Y2/CrackMic
-cd TraceIP
+cd CrackMic
 ls
 chmod 777 crackmic.sh
 ls
